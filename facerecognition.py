@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1L-8fhW7xHYAog_3gqR0nYiU2OqaNrmip
 """
 
-!pip install face_recognition
+!pip install facerecognition
 
 from google.colab import files
 
